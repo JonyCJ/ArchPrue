@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("1.1.1.1:1", "", "Controller", "EARoot/EA1/EA1/EA1/EA1/EA12.htm", "175.png", "1029", "0", "", "Logical diagram0","{74DF6CB4-C8A6-4a4a-85E6-41D742F2478F}");
+tocTab[tocTab.length] = new Array("1.1.1.1.1", "1", "Agenda", "EARoot/EA1/EA1/EA1/EA1/EA14.htm", "4.png", "", "", "{1FABDA1C-D14A-4fa6-BE06-4EE031CB3E11}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.1.2", "1", "Configuracion de horarios", "EARoot/EA1/EA1/EA1/EA1/EA15.htm", "4.png", "", "", "{41557B9E-5B15-4a42-9752-47D3038D3B61}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.1.3", "1", "Gestion de asistencias de trabajadores y alumnos", "EARoot/EA1/EA1/EA1/EA1/EA16.htm", "4.png", "", "", "{7F3A88DF-E0E8-4871-9A3E-86BDA251F0B0}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.1.4", "1", "Gestion de datos de alumnos", "EARoot/EA1/EA1/EA1/EA1/EA17.htm", "4.png", "", "", "{F5AEE8DE-8652-4cc9-8EE9-382293411566}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.1.5", "1", "Gestion de datos de personal", "EARoot/EA1/EA1/EA1/EA1/EA18.htm", "4.png", "", "", "{07F5EC4D-747F-4535-9836-67BAA11D17A1}", "Package");

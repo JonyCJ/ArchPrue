@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1.1.1.1.4:1", "", "Gestion de datos de alumnos", "EARoot/EA1/EA1/EA1/EA1/EA4/EA30.htm", "175.png", "1033", "0", "", "Logical diagram0","{078A3B45-33A0-4bde-966D-37E47BE79CA7}");
+tocTab[tocTab.length] = new Array("1.1.1.1.4:2", "", "Alumno", "EARoot/EA1/EA1/EA1/EA1/EA4/EA32.htm", "5.png", "2106", "0", "", "Class0","{A5032753-7C8A-4697-A7B5-F30A742EE1C6}");
+tocTab[tocTab.length] = new Array("1.1.1.1.4:3", "", "Apoderado", "EARoot/EA1/EA1/EA1/EA1/EA4/EA33.htm", "5.png", "2114", "0", "", "Class0","{CA0E73F1-1D8A-4256-B73E-C7E668C092F4}");
+tocTab[tocTab.length] = new Array("1.1.1.1.4:4", "", "Grado", "EARoot/EA1/EA1/EA1/EA1/EA4/EA34.htm", "5.png", "2112", "0", "", "Class0","{E3490386-187A-4552-B1F3-ED7F32A50BF3}");

@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("1.1.1.1.2:1", "", "Configuracion de horarios", "EARoot/EA1/EA1/EA1/EA1/EA2/EA22.htm", "175.png", "1035", "0", "", "Logical diagram0","{C67C8652-526B-4687-995D-0DE333DCDD04}");
+tocTab[tocTab.length] = new Array("1.1.1.1.2:2", "", "Horario", "EARoot/EA1/EA1/EA1/EA1/EA2/EA24.htm", "5.png", "2108", "0", "", "Class0","{1C185DCF-AB3E-4dab-8497-70240A9D7159}");

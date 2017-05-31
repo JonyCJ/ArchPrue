@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("1.2:1", "", "Requisitos", "EARoot/EA1/EA2/EA56.htm", "188.png", "34", "0", "", "Custom diagram0","{4FD8AA38-5BAC-458f-A8CC-4EA706AF23B0}");
-tocTab[tocTab.length] = new Array("1.2:2", "", "«Functional» El sistema gestionara los datos del alumno", "EARoot/EA1/EA2/EA58.htm", "19.png", "92", "0", "", "Requirement0","{619228A2-92BE-4427-A690-9B8E6CF6524D}");
-tocTab[tocTab.length] = new Array("1.2:3", "", "«Functional» El sistema gestionara los datos del personal", "EARoot/EA1/EA2/EA59.htm", "19.png", "93", "0", "", "Requirement0","{A0EFFD40-7A05-4b27-871C-60F598134134}");
-tocTab[tocTab.length] = new Array("1.2:4", "", "«Functional» El sistema permitira gestionar las asistencias diarias de los alumnos y trabajadores", "EARoot/EA1/EA2/EA60.htm", "19.png", "94", "0", "", "Requirement0","{FC6EDE25-BED7-4a18-A240-70DBAAAFFFAD}");
-tocTab[tocTab.length] = new Array("1.2:5", "", "«Functional» El sistema permitira la configuracion de los horarios", "EARoot/EA1/EA2/EA61.htm", "19.png", "95", "0", "", "Requirement0","{7DDCEDF5-5DD0-4b24-8138-B4A288C66AC3}");

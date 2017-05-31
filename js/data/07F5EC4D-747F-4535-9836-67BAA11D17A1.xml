@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("1.1.1.1.5:1", "", "Gestion de datos de personal", "EARoot/EA1/EA1/EA1/EA1/EA5/EA35.htm", "175.png", "1034", "0", "", "Logical diagram0","{BDD5DC27-11D1-4df3-9E98-900ADF9577C0}");
-tocTab[tocTab.length] = new Array("1.1.1.1.5:2", "", "Cargo", "EARoot/EA1/EA1/EA1/EA1/EA5/EA37.htm", "5.png", "2113", "0", "", "Class0","{869E0FCD-1F01-46ac-9971-CCEF4EC2D926}");
-tocTab[tocTab.length] = new Array("1.1.1.1.5:3", "", "Trabajador", "EARoot/EA1/EA1/EA1/EA1/EA5/EA38.htm", "5.png", "2107", "0", "", "Class0","{23FCCFBC-D142-46e8-B1A1-A17B522EC99F}");
